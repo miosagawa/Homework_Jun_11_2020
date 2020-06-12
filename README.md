@@ -27,11 +27,11 @@ UTA-AUS-FSF-FT-06-2020-U-C/01-Class-Content/01-HTML-Git-CSS/02-Homework/Develop/
 
 ２.other homework
 * The URL of the deployed application.
-https://miosagawa.github.io/UTA-AUS-FSF-FT-06-2020-U-C/01-Class-Content/01-HTML-Git-CSS/02-Homework/Develop/index_fix.html
+https://miosagawa.github.io/Homework_Jun_11_2020/Jun_11_2020/index.html
 
 
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-https://github.com/miosagawa/UTA-AUS-FSF-FT-06-2020-U-C
+https://github.com/miosagawa/Homework_Jun_11_2020.git
 
 
 
